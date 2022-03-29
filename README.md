@@ -20,9 +20,8 @@
      [Create a GitHub account](https://github.com/join) if necessary.
 
   1. **🎉 Create your own project.**  
-     In each group, one student creates a repository.
-     Use this project as a starting point: click the [![Use this template](https://img.shields.io/badge/-Use%20this%20template-%232ea44f)](https://github.com/boisgera/control-engineering-with-python-project/generate) button and fill in the form.
-     Make sure that this repository is 🔒 **private**.
+     In each group, one student creates a git repository.
+     Use this project as a starting point: click the Fork button to create your own instance of the project.
 
   2. **👥 Register collaborators.**  
     Invite all students in the group as collaborators 
