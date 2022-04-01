@@ -32,7 +32,7 @@
 
   2. **👥 Register collaborators.**  
     
-       - Invite all students in the group as collaborators (Settings / Manage Access).
+       - Invite all students in the group as collaborators in your project (Settings / Manage Access).
       
        - Add their name to the `README.md` file ("Student Group" section).
 
