@@ -32,8 +32,9 @@
 
   2. **👥 Register collaborators.**  
     
-       - Invite all students in the group as collaborators (Settings / Manage Access)
-         and add their name to the `README.md` file ("Student Group" section).
+       - Invite all students in the group as collaborators (Settings / Manage Access).
+      
+       - Add their name to the `README.md` file ("Student Group" section).
 
        - Invite [@boisgera](https://github.com/boisgera), 
         [@c-joly](https://github.com/c-joly) and [@JAuriol81](https://github.com/JAuriol81). 
