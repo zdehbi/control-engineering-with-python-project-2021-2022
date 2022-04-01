@@ -9,7 +9,7 @@
 
 ## Student Team
 
-All teams: [🔗](https://docs.google.com/spreadsheets/d/1zVxcBHFnbXDubI1lBR6j4MNshkQwlGT3yl5JXo6oIBM/edit?usp=sharing)
+All teams: [📝 google sheet](https://docs.google.com/spreadsheets/d/1zVxcBHFnbXDubI1lBR6j4MNshkQwlGT3yl5JXo6oIBM/edit?usp=sharing)
 
 <!-- 🖥 Teams meeting URL: ❔ -->
 
