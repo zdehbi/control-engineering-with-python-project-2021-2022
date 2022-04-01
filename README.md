@@ -2,6 +2,8 @@
 
 [:house: Course repository](https://github.com/boisgera/control-engineering-with-python)
 
+[![Gitter](https://badges.gitter.im/control-engineering-with-python-project-2021-2022/community.svg)](https://gitter.im/control-engineering-with-python-project-2021-2022/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 ## Team
 
 🖥 Teams meeting URL: ❔
