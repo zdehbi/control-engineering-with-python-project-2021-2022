@@ -5,7 +5,7 @@
 [:house: Course repository](https://github.com/boisgera/control-engineering-with-python)
 
 
-## Team
+## Student Team
 
 <!-- 🖥 Teams meeting URL: ❔ -->
 
@@ -36,7 +36,7 @@
     
        - Invite all students in the group as collaborators in your project (Settings / Manage Access).
       
-       - Add their names to the `README.md` file ("Student Group" section).
+       - Add their names to the `README.md` file ("Student Team" section).
 
        - Invite [@boisgera](https://github.com/boisgera), 
         [@c-joly](https://github.com/c-joly) and [@JAuriol81](https://github.com/JAuriol81). 
