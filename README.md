@@ -34,7 +34,7 @@
     
        - Invite all students in the group as collaborators in your project (Settings / Manage Access).
       
-       - Add their name to the `README.md` file ("Student Group" section).
+       - Add their names to the `README.md` file ("Student Group" section).
 
        - Invite [@boisgera](https://github.com/boisgera), 
         [@c-joly](https://github.com/c-joly) and [@JAuriol81](https://github.com/JAuriol81). 
