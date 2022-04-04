@@ -34,12 +34,11 @@ All teams: [📝 google sheet](https://docs.google.com/spreadsheets/d/1zVxcBHFnb
      
      - Use this project as a starting point: 
        click the Fork button to create your own project instance.
-       
        ⚠️ **Only one student needs to do this in each group.**
 
   2. **👥 Register collaborators.**  
     
-       - Invite all students in the group as collaborators in your project (Settings / Manage Access).
+       - Invite all students in the group as collaborators in your project (Collaborators).
       
        - Add their names to the `README.md` file ("Student Team" section).
 
